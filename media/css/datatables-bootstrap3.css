@@ -59,7 +59,7 @@ div.dataTables_paginate li.previous a:before {
     top: 6px;
     left: 10px;
     display: block;
-    font-family: FontAwesome;
+    font-family: "Font Awesome 5 Free";
 }
 
 div.dataTables_paginate li.next a:after,
@@ -68,7 +68,7 @@ div.dataTables_paginate li.last a:after {
     top: 6px;
     right: 10px;
     display: block;
-    font-family: FontAwesome;
+    font-family: "Font Awesome 5 Free";
 }
 
 div.dataTables_paginate li.first a:before {
@@ -132,7 +132,7 @@ table.dataTable thead th.sorting_desc:after {
     top: 12px;
     right: 8px;
     display: block;
-    font-family: FontAwesome;
+    font-family: "Font Awesome 5 Free";
 }
 
 table.dataTable thead th.sorting:after {
