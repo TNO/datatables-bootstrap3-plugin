@@ -60,6 +60,7 @@ div.dataTables_paginate li.previous a:before {
     left: 10px;
     display: block;
     font-family: "Font Awesome 5 Free";
+    font-weight: 900;
 }
 
 div.dataTables_paginate li.next a:after,
@@ -69,6 +70,7 @@ div.dataTables_paginate li.last a:after {
     right: 10px;
     display: block;
     font-family: "Font Awesome 5 Free";
+    font-weight: 900;
 }
 
 div.dataTables_paginate li.first a:before {
